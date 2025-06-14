@@ -40,7 +40,7 @@ const AboutSection = () => {
               <p className="text-lg text-forest-700 leading-relaxed mb-8">
                 Experience curated moments of tranquility, from sunrise forest
                 walks to candlelit dinners under the stars. This is more than
-                accommodation—it's a journey back to what matters most.
+                accommodation—it&apos;s a journey back to what matters most.
               </p>
 
               <Button
